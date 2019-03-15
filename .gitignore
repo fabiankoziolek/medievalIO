@@ -2,3 +2,15 @@
 \.idea/
 
 MedievalIO\.Core/obj/
+
+MedievalIO\.Map\.Engine/obj/
+
+MedievalIO\.Engine/obj/
+
+MedievalIO\.Engine\.Test/obj/
+
+MedievalIO\.Map\.Engine\.Test/obj/
+
+MedievalIO\.Battle\.Engine\.Test/obj/
+
+MedievalIO\.Battle\.Engine/obj/
