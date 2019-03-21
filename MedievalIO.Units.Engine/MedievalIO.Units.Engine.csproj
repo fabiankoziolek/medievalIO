@@ -5,4 +5,8 @@
         <RootNamespace>MedievalIO.Units.Engine</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\MedievalIO.Domain\MedievalIO.Domain.csproj" />
+    </ItemGroup>
+
 </Project>
