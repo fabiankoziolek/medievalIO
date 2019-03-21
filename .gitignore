@@ -16,3 +16,9 @@ MedievalIO\.Battle\.Engine\.Test/obj/
 MedievalIO\.Battle\.Engine/obj/
 
 MedievalIO\.Domain\.Test/obj/
+
+MedievalIO\.Units\.Engine/obj/
+
+MedievalIO\.Units\.Engine\.Test/obj/
+
+MedievalIO\.Domain/obj/
