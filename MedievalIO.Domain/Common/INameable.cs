@@ -2,7 +2,7 @@ namespace MedievalIO.Domain.Common
 {
     public interface INameable
     {
-        string Name { get; set; }
-        string ShortName { get; set; }
+        string Name { get; }
+        string ShortName { get; }
     }
 }
