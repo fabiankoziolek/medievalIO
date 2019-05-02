@@ -3,19 +3,12 @@ using MedievalIO.Domain.Unit.Properties;
 
 namespace MedievalIO.Domain.Unit.Units
 {
-    public class Knight : IUnit
+    public class Knight : Unit
     {
-        public string Name { get; set; }
-        public string ShortName { get; set; }
-        public IHealth Health { get; }
-        public IAttack Attack { get; }
-        public IDefend Defend { get; }
-
-        public Knight(IDefend defend, IAttack attack, IHealth health)
+        public Knight()
         {
-            Defend = defend;
-            Attack = attack;
-            Health = health;
+            Name = "Knight";
+            ShortName = "KGT";
         }
     }
 }

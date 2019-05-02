@@ -6,17 +6,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{00EDAD7D-8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{79EB2E6A-63E3-407C-BF1E-91FA52A6D8D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedievalIO.Map.Engine", "MedievalIO.Map.Engine\MedievalIO.Map.Engine.csproj", "{360F8E17-D2AB-46FB-9693-7570818A7FD2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedievalIO.Battle.Engine", "MedievalIO.Battle.Engine\MedievalIO.Battle.Engine.csproj", "{0061581E-7457-4565-BD5A-A777A959329F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedievalIO.Units.Engine", "MedievalIO.Units.Engine\MedievalIO.Units.Engine.csproj", "{0061581E-7457-4565-BD5A-A777A959329F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{BBAE14BE-4D15-4236-BF44-3CDC559AB952}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedievalIO.Battle.Engine.Test", "MedievalIO.Battle.Engine.Test\MedievalIO.Battle.Engine.Test.csproj", "{EAF4786D-44DF-413C-8CF2-A1ABEC7209D3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedievalIO.Map.Engine.Test", "MedievalIO.Map.Engine.Test\MedievalIO.Map.Engine.Test.csproj", "{1F3822EC-FED8-4DB8-A168-4575C39F5328}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedievalIO.Engine.Test", "MedievalIO.Engine.Test\MedievalIO.Engine.Test.csproj", "{9AF920FD-0067-4416-9614-5E8D19766BCE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedievalIO.Units.Engine.Test", "MedievalIO.Units.Engine.Test\MedievalIO.Units.Engine.Test.csproj", "{EAF4786D-44DF-413C-8CF2-A1ABEC7209D3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedievalIO.Domain", "MedievalIO.Domain\MedievalIO.Domain.csproj", "{8F4CF71A-3A4D-4F22-9EA3-CC8C6AA408DE}"
 EndProject
