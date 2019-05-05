@@ -1,9 +1,9 @@
-namespace MedievalIO.Domain.Unit.Properties
+namespace MedievalIO.Domain.Unit.Statistics
 {
     public class Health : IHealth
     {
-        public int HealthPoints { get; set; }
-        public int MaxHealthPoints { get; set; }
+        public int HealthPoints { get; }
+        public int MaxHealthPoints { get; }
 
         public Health(int maxHealthPoints)
         {
